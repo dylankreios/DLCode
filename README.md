@@ -1,4 +1,4 @@
-## Some codes in learning deeplearning
+## Categories
 
 1. Single variable linear regression
 2. Multivariate linear regression
